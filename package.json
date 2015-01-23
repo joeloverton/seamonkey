@@ -1,0 +1,11 @@
+{
+  "name": "seamonkey",
+  "version": "0.0.0",
+  "description": "Dehydrate your server-side instances and rehydrate them in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Overton <npm@joeloverton.com> (http://joeloverton.com)",
+  "license": "MIT"
+}
